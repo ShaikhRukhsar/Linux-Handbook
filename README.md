@@ -4,7 +4,7 @@ Here are **short, crisp, interview-level important Linux notes** — exactly how
 
 ---
 
-# 🔥 **LINUX IMPORTANT NOTES (DevOps Cheat Sheet)**
+# 🔥 **LINUX IMPORTANT NOTES 
 
 ---
 
@@ -334,5 +334,3 @@ tar -xzf backup.tar.gz
 ```
 
 ---
-
-# ⭐ **If you want, I can convert this into a 2-page CLEAN PDF-style note for you.**
