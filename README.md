@@ -131,7 +131,7 @@ Jenkins, Docker, Kubernetes, Terraform… can overwhelm beginners.
 Automation mistakes can impact production
 A wrong script or config can break things quickly.
 
-🐧 Linux – Notes
+🐧 Linux – 
 What is Linux?
 
 Linux is an open-source operating system used for:
@@ -187,7 +187,7 @@ Cloud basics
 Containers & Docker
 
 Kubernetes
-# 🔥 **LINUX IMPORTANT NOTES 
+# 🔥 **LINUX COMMANDS
 
 ---
 
